@@ -81,13 +81,17 @@ Building a modular research intelligence platform for multi-source document inge
 
 **Technologies:** FastAPI, spaCy, NMF, Sentence Transformers, ChromaDB, RAG
 
-## 📊 GitHub Overview
+## 📌 Explore My Work
+
+- 👨‍💻 Check the pinned repositories below for my featured projects
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvarun03&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rvarun03&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/rvarun03">
+  <img src="./profile/streak.svg" alt="Varun's GitHub contribution streak" />
+</a>
 
 </div>
 

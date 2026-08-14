@@ -6,8 +6,7 @@
 
 I build reliable backend systems and practical AI applications using Python, FastAPI, React, RAG and NLP.
 
-[![GitHub](https://img.shields.io/badge/GitHub-rvarun03-181717?style=for-the-badge&logo=github)](https://github.com/rvarun03)
-[![Repositories](https://img.shields.io/badge/View-My_Projects-2563EB?style=for-the-badge&logo=github)](https://github.com/rvarun03?tab=repositories)
+
 
 </div>
 
@@ -83,6 +82,8 @@ Building a modular research intelligence platform for multi-source document inge
 
 ## 📌 Explore My Work
 
+- 📂 [View all my repositories](https://github.com/rvarun03?tab=repositories)
+- ⭐ [View my starred repositories](https://github.com/rvarun03?tab=stars)
 - 👨‍💻 Check the pinned repositories below for my featured projects
 
 ## 📊 GitHub Activity

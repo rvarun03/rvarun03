@@ -72,7 +72,7 @@ Developing a web-based platform for executing and analysing AI test runs. The sy
 
 Built an AI-assisted workflow that processes resumes, retrieves relevant content and compares candidates against job descriptions using TF-IDF, cosine similarity, embeddings and RAG.
 
-**Technologies:** FastAPI, LangChain, FAISS, Hugging Face, scikit-learn
+**Technologies:** FastAPI, LangChain, FAISS
 
 ### ARIOS — AI Research Intelligence OS
 

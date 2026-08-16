@@ -78,7 +78,7 @@ Built an AI-assisted workflow that processes resumes, retrieves relevant content
 
 Building a modular research intelligence platform for multi-source document ingestion, NLP analysis, topic modelling, semantic search and retrieval-augmented generation.
 
-**Technologies:** FastAPI, spaCy, NMF, Sentence Transformers, ChromaDB, RAG
+**Technologies:** FastAPI, spaCy, PyTorch, Sentence Transformers, ChromaDB, RAG
 
 
 ## 📊 GitHub Activity

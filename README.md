@@ -96,7 +96,7 @@ Building a modular research intelligence platform for multi-source document inge
 I'm open to opportunities and collaborations in backend development, AI engineering, GenAI and NLP.
 
 - GitHub: [github.com/rvarun03](https://github.com/rvarun03)
-- LinkedIn: [Link](https://www.linkedin.com/in/r-varun-012552266/)
+- LinkedIn: [Link](https://www.linkedin.com/in/varun-r-012552266/)
 - Email: varunrram2003@gmail.com
 
 ---

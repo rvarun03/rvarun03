@@ -97,7 +97,7 @@ I'm open to opportunities and collaborations in backend development, AI engineer
 
 - GitHub: [github.com/rvarun03](https://github.com/rvarun03)
 - LinkedIn: [Link](https://www.linkedin.com/in/varun-r-012552266/)
-- 🌐 [Portfolio](https://portfolio-sand-psi-40.vercel.app/)
+- Portfolio: [Portfolio](https://portfolio-sand-psi-40.vercel.app/)
 - Email: varunrram2003@gmail.com
 
 ---
